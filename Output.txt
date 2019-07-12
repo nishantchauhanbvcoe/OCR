@@ -1,0 +1,2 @@
+Text read from image:  |I am just anonymous,
+I am just alone. |
