@@ -4,7 +4,7 @@
 ```
 pip install pytesseract
 
-Download and install Tesseract OCR from this link.
+Download and install Tesseract OCR from this [link](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v4.1.0-bibtag19.exe).
 If you don't have tesseract executable in your PATH, include the following:
 pytesseract.pytesseract.tesseract_cmd = r'<full_path_to_your_tesseract_executable>'
 For Windows, Path - 'C:\Program Files\Tesseract-OCR\tesseract.exe'
